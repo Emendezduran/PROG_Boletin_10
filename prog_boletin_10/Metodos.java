@@ -1,12 +1,9 @@
 package prog_boletin_10;
 
 import java.util.Random;
+
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author emendezduran
- */
 public class Metodos {
 
     public static void instrucciones() {
